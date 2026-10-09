@@ -1,0 +1,3 @@
+function totalDesconto(valor, desconto ){
+    
+}
