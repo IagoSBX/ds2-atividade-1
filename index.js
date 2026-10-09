@@ -4,3 +4,4 @@ function totalDesconto(valor, desconto ){
     }
     return 0
 }
+console.log(totalDesconto(10,5));
